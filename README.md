@@ -28,4 +28,4 @@ Pandas
 📎 Access the Dashboard
 👉 [Click here to view the live dashboard](https://car-dashboard-software-development-tools.onrender.com)
 
-Replace YOUR_RENDER_LINK_HERE with the actual Render deployment URL once you’ve published the app.
+
