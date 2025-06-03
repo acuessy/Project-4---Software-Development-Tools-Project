@@ -29,3 +29,18 @@ Pandas
 👉 [Click here to view the live dashboard](https://car-dashboard-software-development-tools.onrender.com)
 
 
+How to Run the App Locally
+
+Clone the repository to your local machine:
+git clone https://github.com/username/repository-name.git (insert real repository name here)
+cd repository-name
+(Optional but recommended) Create and activate a virtual environment:
+python -m venv venv
+source venv/bin/activate    # For macOS/Linux
+venv\Scripts\activate       # For Windows
+Install the required libraries:
+pip install -r requirements.txt
+Run the application:
+python app.py
+Open your browser and navigate to:
+http://localhost:5000/
