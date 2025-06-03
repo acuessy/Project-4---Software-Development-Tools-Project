@@ -32,7 +32,7 @@ Pandas
 How to Run the App Locally
 
 Clone the repository to your local machine:
-git clone https://github.com/username/repository-name.git (insert real repository name here)
+git clone (https://car-dashboard-software-development-tools.onrender.com)
 cd repository-name
 (Optional but recommended) Create and activate a virtual environment:
 python -m venv venv
